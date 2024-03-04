@@ -1,5 +1,6 @@
 import './App.css'
 import OpenColumn from "./Component/OpenColumn.tsx";
+import AddButton from "./Component/AddButton.tsx";
 
 
 
@@ -18,6 +19,7 @@ function App() {
                   <h2>DONE</h2>
               </div>
           </div>
+          <AddButton/>
 
 
       </>
